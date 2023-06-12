@@ -1,7 +1,8 @@
 <div align="center">
-Hi There, Welcome to my Github profile! <img src="./assets/Hi.gif" width="30">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+# Hi There, Welcome to my Github profile! <img src="./assets/Hi.gif" width="30">
 
 [![Linkedin](https://img.shields.io/badge/-Connect-red?style=for-the-badge&logo=Linkedin&logoColor=white&color=0E76A8&link=https://www.linkedin.com/in/higor-koakovski-a33555212/)](https://www.linkedin.com/in/higor-koakovski-a33555212/)
 [![Instagram](https://img.shields.io/badge/-Follow-red?style=for-the-badge&logo=Instagram&logoColor=white&color=833AB4&link=https://www.instagram.com/higor.koakovski/)](https://www.instagram.com/higor.koakovski/)
