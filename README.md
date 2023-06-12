@@ -1,5 +1,5 @@
 <div align="center">
-<h2> Hi There, Welcome to my Github profile! <img src="./assets/Hi.gif" width="30"></h2>
+Hi There, Welcome to my Github profile! <img src="./assets/Hi.gif" width="30">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
