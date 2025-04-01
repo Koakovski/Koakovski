@@ -27,3 +27,4 @@
 ![TypeORM](https://img.shields.io/badge/TypeORM-red?style=flat&logoColor=white&color=FE0902)
 ![Docker](https://img.shields.io/badge/Docker-red?style=flat&logo=docker&logoColor=white&color=0DB7ED)
 ![Drizzle](https://img.shields.io/badge/-Drizzle-C5F74F?style=flat&logo=drizzle&color=black)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&color=0175C2)
